@@ -19,9 +19,6 @@ async function generateJoke() {
 }
 
 
-
-
-
 // function generateJoke() {
 //     const config = {
 //         headers: {
