@@ -5,19 +5,19 @@
 
 * 
 > Here is a list of what I built in this course:
->> Expanding Cards
+>> 1. Expanding Cards
 >>
->> Progress Steps
+>> 2. Progress Steps
 >> 
->> Rotating Navigation Animation
+>> 3. Rotating Navigation Animation
 >> 
->> Hidden Search Widget
+>> 4. Hidden Search Widget
 >> 
->> Blurry Loading
+>> 5. Blurry Loading
 >> 
->> Scroll Animation
+>> 6. Scroll Animation
 >> 
->> Split Landing Page
+>> 7. Split Landing Page
 >> 
 >> Form Wave
 >> 
