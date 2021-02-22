@@ -3,7 +3,6 @@
 * learning modern styling with flexbox, CSS animations, custom properties, etc
 * DOM manipulation, events, array methods, HTTP requests & more
 
-* 
 > Here is a list of what I built in this course:
 > 1. Expanding Cards
 >
