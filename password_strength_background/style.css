@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.background {
+  background: url('https://media.istockphoto.com/photos/beautiful-rice-terraces-ubud-bali-indonesia-picture-id515480864?b=1&k=20&m=515480864&s=170667a&w=0&h=Fk270n-aXbE51pUZkpnwQbDuJvJFgHXo9uAcEsHAP0A=')
+    no-repeat center center/cover;
+  position: absolute;
+  top: -20px;
+  bottom: -20px;
+  left: -20px;
+  right: -20px;
+  z-index: -1;
+  filter: blur(20px);
+}
